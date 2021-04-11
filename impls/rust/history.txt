@@ -1,0 +1,30 @@
+#V2
+laksdjf
+slkdjf
+aslkdfj
+asldkfjas
+dsdfklsjflkjskdsdkfjlfj
+abcABC123\n
+hello mal world\n
+[]{}"'* ;:()\n
+hello world abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789 (;:() []{}"'* ;:() []{}"'* ;:() []{}"'*)\n
+!\n
+&\n
++\n
+,\n
+-\n
+/\n
+<\n
+=\n
+>\n
+?\n
+@\n
+^\n
+_\n
+`\n
+~\n
+#\n
+$\n
+%\n
+.\n
+|\n
